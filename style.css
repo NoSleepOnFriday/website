@@ -40,3 +40,23 @@ body {
     color: #ffff;
     text-decoration: none;
 }
+
+.releases {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.release {
+    height: 450px;
+    width: 450px;
+    text-align: center;
+    overflow: hidden;
+    float: left;
+}
+
+.releaseImg {
+    height: 250px;
+    width: 250px;
+    margin: auto;
+}
